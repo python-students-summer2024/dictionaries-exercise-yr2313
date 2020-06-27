@@ -81,7 +81,7 @@ Price: $3.99
 
 #4 - Animal Cupcake
 Go wild and choose from a set of animal faces or one animal face printed on edible sugar paper.
-Price: $0.99 </nowiki></font>
+Price: $0.99
 ```
 
 ## Taking orders
