@@ -31,6 +31,17 @@ def welcome():
 def display_cookies(cookies):
   """
   Prints a list of all cookies in the shop to the user.
+  - Sample output - we show only two cookies here, but imagine the output continues for all cookiese:
+      Here are the cookies we have in the shop for you:
+
+        #1 - Basboosa Semolina Cake
+        This is a This is a traditional Middle Eastern dessert made with semolina and yogurt then soaked in a rose water syrup.
+        Price: $3.99
+
+        #2 - Vanilla Chai Cookie
+        Crisp with a smooth inside. Rich vanilla pairs perfectly with its Chai partner a combination of cinnamon ands ginger and cloves. Can you think of a better way to have your coffee AND your Vanilla Chai in the morning?
+        Price: $5.50
+        
   - If doing the extra credit version, ask the user for their dietary restrictions first, and only print those cookies that are suitable for the customer.
 
   :param cookies: a list of all cookies in the shop, where each cookie is represented as a dictionary.

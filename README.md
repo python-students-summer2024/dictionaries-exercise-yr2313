@@ -5,7 +5,10 @@ Your assignment today is to create a virtual cookie shop. You will do this by wr
 A file named `main.py` is given to you. The code in this file must not be modified. You must write your code in `cookie_shop.py` such that running the `main.py` file runs the entire program.
 
 **Extra credit** -
-There is an advanced version of this assignment that you can optionally attempt. All extra credit requirements are indicated following the basic requirements.
+There is an advanced version of this assignment that you can optionally attempt. All extra credit requirements are indicated following the basic requirements. If doing the extra credit, be sure to...
+
+1. Complete the basic assignment in the given file named `cookie_shop.py`. You can use the automated tests included in the given code to make sure your basic version works perfectly before proceeding.
+2. Complete the extra-credit version in a separate file named `cookie_shop_extra_credit.py`. There are no automated tests to help you with this version. Feel free to update `main.py` to import your extra credit version, rather than the basic version, so you can run and debug it more easily.
 
 ## Cookie inventory
 
