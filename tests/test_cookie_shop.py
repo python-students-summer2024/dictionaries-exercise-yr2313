@@ -115,6 +115,8 @@ class Tests:
 
     # what we expect
     expected = """
+Here are the cookies we have in the shop for you:
+
 #1 - Basboosa Semolina Cake
 This is a This is a traditional Middle Eastern dessert made with semolina and yogurt then soaked in a rose water syrup.
 Price: $3.99
