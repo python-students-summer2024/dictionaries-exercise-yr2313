@@ -12,7 +12,7 @@ There is an advanced version of this assignment that you can optionally attempt.
 
 ## Cookie inventory
 
-The cookie shop has an inventory of at least **10 different kinds of cookies**. A data file named `cookies.csv` is given - feel free to add more cookies to it, but do not modify or remove any lines already in the file. Each cookie has a unique `id`, a `title`, `description`, and `price` associated with it.
+The cookie shop has an inventory of at least **10 different kinds of cookies**. A data file named `cookies.csv` is given within the `data` directory - feel free to add more cookies to it, but do not modify or remove any lines already in the file, unless you are doing the extra credit part of the assignment. Each cookie has a unique `id`, a `title`, `description`, and `price` associated with it.
 
 ### Extra credit
 
