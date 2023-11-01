@@ -7,7 +7,9 @@ from pathlib import Path
 import cookie_shop
 
 # get data from the CSV file into a list
-filepath = Path("data/cookies.csv") # create a file path in a way that is both Mac- and Windows- compatible
+filepath = Path(
+    "data/cookies.csv"
+)  # create a file path in a way that is both Mac- and Windows- compatible
 list_of_cookies = cookie_shop.bake_cookies(filepath)
 
 # open the cookie shop with the cookies read from the file
