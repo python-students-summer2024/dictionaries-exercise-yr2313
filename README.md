@@ -184,6 +184,13 @@ All user input data must be validated. If the user enters inappropriate data, th
 
 - The response to questions about allergies or diabetes must be either '`yes`', '`y`', '`no`', or '`n`'.
 
-## Submitting
-
 If you are completing the extra credit version, you must send this fact as a message to the graders.
+
+## Submit your work
+
+Each student must submit this assignment individually. Use Visual Studio Code to perform git `stage`, `commit` and `push` actions to submit. These actions are all available as menu items in Visual Studio Code's Source Control panel.
+
+1. Type a short note about what you have done to the files in the `Message` area, and then type `Command-Enter` (Mac) or `Control-Enter` (Windows) to perform git `stage` and `commit` actions.
+1. Click the `...` icon next to the words, "Source Control" and select "Push" to perform the git `push` action. This will upload your work to your repository on GitHub.com.
+
+![Pushing work in Visual Studio Code](./images/vscode_stage_commit_push.png)
